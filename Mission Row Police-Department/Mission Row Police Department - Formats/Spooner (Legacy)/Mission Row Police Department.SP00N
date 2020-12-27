@@ -1,0 +1,1270 @@
+[1]
+Type = 3
+Hash = 28905e4d
+X = 407.2722
+Y = -1014.788
+Z = 28.44351
+Pitch = 0
+Roll = 0
+Yaw = 78.99978
+Opacity = 0x000000ff
+[2]
+Type = 3
+Hash = f809923b
+X = 419.84
+Y = -1013.24
+Z = 30.03
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[3]
+Type = 3
+Hash = f809923b
+X = 419.84
+Y = -1013.24
+Z = 29.05
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[4]
+Type = 3
+Hash = f809923b
+X = 419.84
+Y = -1013.24
+Z = 28.07
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[5]
+Type = 3
+Hash = 4caef9fe
+X = 419.9778
+Y = -1024.52
+Z = 28.11649
+Pitch = 0
+Roll = -5.008956E-06
+Yaw = -89.99999
+Opacity = 0x000000ff
+[6]
+Type = 3
+Hash = f809923b
+X = 419.94
+Y = -1028.31
+Z = 30.03
+Pitch = 0
+Roll = -5.008956E-06
+Yaw = -180
+Opacity = 0x000000ff
+[7]
+Type = 3
+Hash = f809923b
+X = 419.94
+Y = -1028.31
+Z = 29.05
+Pitch = 0
+Roll = -5.008956E-06
+Yaw = -180
+Opacity = 0x000000ff
+[8]
+Type = 3
+Hash = f809923b
+X = 419.94
+Y = -1028.31
+Z = 28.07
+Pitch = 0
+Roll = -5.008956E-06
+Yaw = -180
+Opacity = 0x000000ff
+[9]
+Type = 3
+Hash = f9b71f35
+X = 417.92
+Y = -1028.51
+Z = 28.15224
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[10]
+Type = 3
+Hash = 92e29019
+X = 416.8101
+Y = -1028.708
+Z = 28.71
+Pitch = 0
+Roll = 0
+Yaw = 89.99963
+Opacity = 0x000000ff
+[11]
+Type = 3
+Hash = e228b050
+X = 416.68
+Y = -1027.9
+Z = 29.45
+Pitch = 0
+Roll = 0
+Yaw = 89.99959
+Opacity = 0x000000ff
+[12]
+Type = 3
+Hash = ff856b09
+X = 416.77
+Y = -1028.33
+Z = 29.44
+Pitch = 0
+Roll = 0
+Yaw = 117.9991
+Opacity = 0x000000ff
+[13]
+Type = 3
+Hash = 81784f01
+X = 419.72
+Y = -1016.76
+Z = 29.66
+Pitch = 0
+Roll = 0
+Yaw = -88.99956
+Opacity = 0x000000ff
+[14]
+Type = 3
+Hash = 201145c2
+X = 417.2
+Y = -1027.766
+Z = 29.03
+Pitch = 0
+Roll = 0
+Yaw = -76.99979
+Opacity = 0x000000ff
+[15]
+Type = 3
+Hash = 50d213f4
+X = 416.9182
+Y = -1027.883
+Z = 29.23
+Pitch = 0
+Roll = 0
+Yaw = 89.99944
+Opacity = 0x000000ff
+[16]
+Type = 3
+Hash = eeefb5ec
+X = 416.8491
+Y = -1027.467
+Z = 29.20722
+Pitch = 0
+Roll = 0
+Yaw = 87.9996
+Opacity = 0x000000ff
+[17]
+Type = 3
+Hash = 173b596d
+X = 416.6884
+Y = -1026.917
+Z = 30.93338
+Pitch = 0
+Roll = 0
+Yaw = 64.99983
+Opacity = 0x000000ff
+[18]
+Type = 3
+Hash = fc6c6962
+X = 416.5511
+Y = -1029.399
+Z = 29.67176
+Pitch = 0
+Roll = 0
+Yaw = 89.99957
+Opacity = 0x000000ff
+[19]
+Type = 3
+Hash = d524d63c
+X = 416.6529
+Y = -1027.167
+Z = 29.20722
+Pitch = 0
+Roll = 0
+Yaw = 139.9994
+Opacity = 0x000000ff
+[20]
+Type = 3
+Hash = 8de8036d
+X = 418.5476
+Y = -1026.1
+Z = 29.20722
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[21]
+Type = 3
+Hash = f644045a
+X = 416.9053
+Y = -1027.226
+Z = 29.20722
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[22]
+Type = 3
+Hash = 36e8e01f
+X = 416.6495
+Y = -1026.978
+Z = 29.20722
+Pitch = 0
+Roll = 0
+Yaw = 57.99972
+Opacity = 0x000000ff
+[23]
+Type = 3
+Hash = c8d39400
+X = 418.9269
+Y = -1031.485
+Z = 29.84618
+Pitch = 0
+Roll = 0
+Yaw = 179.9987
+Opacity = 0x000000ff
+[24]
+Type = 3
+Hash = a667cf29
+X = 417.3746
+Y = -1031.485
+Z = 29.51586
+Pitch = 0
+Roll = 0
+Yaw = -178.999
+Opacity = 0x000000ff
+[25]
+Type = 3
+Hash = 9969f1ed
+X = 416.7343
+Y = -1029.157
+Z = 29.20722
+Pitch = 0
+Roll = 0
+Yaw = -44.99983
+Opacity = 0x000000ff
+[26]
+Type = 3
+Hash = dcc78b83
+X = 419.074
+Y = -1027.281
+Z = 28.44519
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[27]
+Type = 3
+Hash = 7d9894e2
+X = 416.8403
+Y = -1026.223
+Z = 29.20722
+Pitch = 0
+Roll = 0
+Yaw = 27.99995
+Opacity = 0x000000ff
+[28]
+Type = 3
+Hash = 8fb4be83
+X = 419.0181
+Y = -1026.203
+Z = 29.32
+Pitch = 0
+Roll = 0
+Yaw = -109.9995
+Opacity = 0x000000ff
+[29]
+Type = 3
+Hash = 4a341ce2
+X = 417.931
+Y = -1026.089
+Z = 29.20722
+Pitch = 0
+Roll = 0
+Yaw = 5.999979
+Opacity = 0x000000ff
+[30]
+Type = 3
+Hash = 10269a23
+X = 419.3437
+Y = -1029.69
+Z = 29.52
+Pitch = -5.97114E-13
+Roll = -5.008956E-06
+Yaw = -89.99999
+Opacity = 0x000000ff
+[31]
+Type = 3
+Hash = 10269a23
+X = 416.45
+Y = -1029.69
+Z = 29.49
+Pitch = -1.384231E-12
+Roll = -5.008955E-06
+Yaw = -89.99998
+Opacity = 0x000000ff
+[32]
+Type = 3
+Hash = f809923b
+X = 419.94
+Y = -1032.235
+Z = 26.79
+Pitch = -90
+Roll = 180
+Yaw = 0
+Opacity = 0x000000ff
+[33]
+Type = 3
+Hash = 4af2ccb6
+X = 418.141
+Y = -1012.194
+Z = 29.37
+Pitch = -5.97114E-13
+Roll = -5.008956E-06
+Yaw = -89.99999
+Opacity = 0x000000ff
+[34]
+Type = 3
+Hash = 1d65b828
+X = 415.8104
+Y = -1011.136
+Z = 28.25446
+Pitch = 0
+Roll = 0
+Yaw = -19.99998
+Opacity = 0x000000ff
+[35]
+Type = 3
+Hash = 1d65b828
+X = 416.0948
+Y = -1013.591
+Z = 28.23706
+Pitch = 0
+Roll = 0
+Yaw = -19.99998
+Opacity = 0x000000ff
+[36]
+Type = 3
+Hash = 3ad97d39
+X = 415.8452
+Y = -1011.034
+Z = 29.22306
+Pitch = 0
+Roll = 0
+Yaw = 30.99997
+Opacity = 0x000000ff
+[37]
+Type = 3
+Hash = b13f44b8
+X = 415.8237
+Y = -1011.276
+Z = 29.23
+Pitch = 0
+Roll = 0
+Yaw = -16.99999
+Opacity = 0x000000ff
+[38]
+Type = 3
+Hash = 192567be
+X = 416.0114
+Y = -1013.531
+Z = 29.20566
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[39]
+Type = 3
+Hash = a5740900
+X = 416.209
+Y = -1013.623
+Z = 29.20566
+Pitch = 0
+Roll = 0
+Yaw = 16.00002
+Opacity = 0x000000ff
+[40]
+Type = 3
+Hash = cc179926
+X = 419.3718
+Y = -985.8433
+Z = 28.39651
+Pitch = -5.97114E-13
+Roll = -5.008956E-06
+Yaw = -89.99999
+Opacity = 0x000000ff
+[41]
+Type = 3
+Hash = 00fcce35
+X = 419.3645
+Y = -986.4749
+Z = 28.38629
+Pitch = 0
+Roll = 0
+Yaw = -65.99971
+Opacity = 0x000000ff
+[42]
+Type = 3
+Hash = 43e1f3de
+X = 419.39
+Y = -987.69
+Z = 28.98346
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[43]
+Type = 3
+Hash = a5f2f692
+X = 411.4071
+Y = -1004.532
+Z = 28.40757
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[44]
+Type = 3
+Hash = a5f2f692
+X = 418.548
+Y = -1016.798
+Z = 28.16186
+Pitch = 0
+Roll = 0
+Yaw = 89.9995
+Opacity = 0x000000ff
+[45]
+Type = 3
+Hash = a5f2f692
+X = 417.1606
+Y = -1016.75
+Z = 28.20706
+Pitch = 0
+Roll = 0
+Yaw = 89.9995
+Opacity = 0x000000ff
+[46]
+Type = 3
+Hash = a5f2f692
+X = 415.8208
+Y = -1016.763
+Z = 28.25097
+Pitch = 0
+Roll = 0
+Yaw = 89.99948
+Opacity = 0x000000ff
+[47]
+Type = 3
+Hash = a5f2f692
+X = 414.502
+Y = -1016.774
+Z = 28.29036
+Pitch = 0
+Roll = 0
+Yaw = 89.99944
+Opacity = 0x000000ff
+[48]
+Type = 3
+Hash = a5f2f692
+X = 413.1731
+Y = -1016.762
+Z = 28.32946
+Pitch = 0
+Roll = 0
+Yaw = 89.9994
+Opacity = 0x000000ff
+[49]
+Type = 3
+Hash = a5f2f692
+X = 411.8394
+Y = -1016.779
+Z = 28.35376
+Pitch = 0
+Roll = 0
+Yaw = 89.99935
+Opacity = 0x000000ff
+[50]
+Type = 3
+Hash = a5f2f692
+X = 410.4274
+Y = -1016.776
+Z = 28.35134
+Pitch = 0
+Roll = 0
+Yaw = 89.9993
+Opacity = 0x000000ff
+[51]
+Type = 3
+Hash = a5f2f692
+X = 408.8414
+Y = -1016.761
+Z = 28.36695
+Pitch = 0
+Roll = 0
+Yaw = 89.99924
+Opacity = 0x000000ff
+[52]
+Type = 3
+Hash = a5f2f692
+X = 407.2951
+Y = -1016.776
+Z = 28.38203
+Pitch = 0
+Roll = 0
+Yaw = 89.99917
+Opacity = 0x000000ff
+[53]
+Type = 3
+Hash = a5f2f692
+X = 405.8261
+Y = -1016.808
+Z = 28.3945
+Pitch = 0
+Roll = 0
+Yaw = 88.99747
+Opacity = 0x000000ff
+[54]
+Type = 3
+Hash = a5f2f692
+X = 405.1146
+Y = -1015.572
+Z = 28.41148
+Pitch = 0
+Roll = 0
+Yaw = -2.002795
+Opacity = 0x000000ff
+[55]
+Type = 3
+Hash = a5f2f692
+X = 405.1438
+Y = -1014.158
+Z = 28.41594
+Pitch = 0
+Roll = 0
+Yaw = -2.002795
+Opacity = 0x000000ff
+[56]
+Type = 3
+Hash = a5f2f692
+X = 405.2693
+Y = -1012.652
+Z = 28.41034
+Pitch = 0
+Roll = 0
+Yaw = -22.00278
+Opacity = 0x000000ff
+[57]
+Type = 3
+Hash = a5f2f692
+X = 406.4071
+Y = -1011.531
+Z = 28.40936
+Pitch = 0
+Roll = 0
+Yaw = -50.00272
+Opacity = 0x000000ff
+[58]
+Type = 3
+Hash = a5f2f692
+X = 407.7861
+Y = -1010.511
+Z = 28.40946
+Pitch = 0
+Roll = 0
+Yaw = -50.00272
+Opacity = 0x000000ff
+[59]
+Type = 3
+Hash = a5f2f692
+X = 408.9819
+Y = -1009.641
+Z = 28.40907
+Pitch = 0
+Roll = 0
+Yaw = -52.00269
+Opacity = 0x000000ff
+[60]
+Type = 3
+Hash = a5f2f692
+X = 410.158
+Y = -1008.779
+Z = 28.40972
+Pitch = 0
+Roll = 0
+Yaw = -52.00263
+Opacity = 0x000000ff
+[61]
+Type = 3
+Hash = a5f2f692
+X = 411.2346
+Y = -1007.537
+Z = 28.39775
+Pitch = 0
+Roll = 0
+Yaw = -22.00252
+Opacity = 0x000000ff
+[62]
+Type = 3
+Hash = a5f2f692
+X = 411.4131
+Y = -1006.062
+Z = 28.40704
+Pitch = 0
+Roll = 0
+Yaw = -1.002508
+Opacity = 0x000000ff
+[63]
+Type = 3
+Hash = a5f2f692
+X = 411.4095
+Y = -1003.162
+Z = 28.40851
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[64]
+Type = 3
+Hash = a5f2f692
+X = 411.4071
+Y = -1001.768
+Z = 28.40956
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[65]
+Type = 3
+Hash = a5f2f692
+X = 411.427
+Y = -1000.459
+Z = 28.41007
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[66]
+Type = 3
+Hash = a5f2f692
+X = 411.4189
+Y = -999.0312
+Z = 28.41128
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[67]
+Type = 3
+Hash = a5f2f692
+X = 411.4177
+Y = -997.5291
+Z = 28.41088
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[68]
+Type = 3
+Hash = a5f2f692
+X = 411.4097
+Y = -995.983
+Z = 28.41111
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[69]
+Type = 3
+Hash = a5f2f692
+X = 411.4169
+Y = -994.5809
+Z = 28.4115
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[70]
+Type = 3
+Hash = a5f2f692
+X = 411.4324
+Y = -993.1949
+Z = 28.41232
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[71]
+Type = 3
+Hash = a5f2f692
+X = 411.4182
+Y = -991.8024
+Z = 28.41191
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[72]
+Type = 3
+Hash = a5f2f692
+X = 411.4141
+Y = -990.4072
+Z = 28.41142
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[73]
+Type = 3
+Hash = a5f2f692
+X = 411.4125
+Y = -988.9726
+Z = 28.4143
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[74]
+Type = 3
+Hash = a5f2f692
+X = 411.3997
+Y = -987.5898
+Z = 28.4141
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[75]
+Type = 3
+Hash = a5f2f692
+X = 411.41
+Y = -986.2145
+Z = 28.41393
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[76]
+Type = 3
+Hash = a5f2f692
+X = 411.4133
+Y = -984.8569
+Z = 28.41375
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[77]
+Type = 3
+Hash = a5f2f692
+X = 411.4153
+Y = -983.4342
+Z = 28.41492
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[78]
+Type = 3
+Hash = a5f2f692
+X = 411.4242
+Y = -982.0328
+Z = 28.41585
+Pitch = 0
+Roll = 0
+Yaw = 0
+Opacity = 0x000000ff
+[79]
+Type = 3
+Hash = a5f2f692
+X = 411.4127
+Y = -980.5696
+Z = 28.41667
+Pitch = 0
+Roll = 0
+Yaw = 3
+Opacity = 0x000000ff
+[80]
+Type = 3
+Hash = a5f2f692
+X = 411.0166
+Y = -979.1788
+Z = 28.41716
+Pitch = 0
+Roll = 0
+Yaw = 32.99993
+Opacity = 0x000000ff
+[81]
+Type = 3
+Hash = a5f2f692
+X = 410.0816
+Y = -978.189
+Z = 28.41767
+Pitch = 0
+Roll = 0
+Yaw = 50.99985
+Opacity = 0x000000ff
+[82]
+Type = 3
+Hash = a5f2f692
+X = 408.995
+Y = -977.2657
+Z = 28.41766
+Pitch = 0
+Roll = 0
+Yaw = 50.99986
+Opacity = 0x000000ff
+[83]
+Type = 3
+Hash = a5f2f692
+X = 408.0663
+Y = -976.4722
+Z = 28.41662
+Pitch = 0
+Roll = 0
+Yaw = 50.99986
+Opacity = 0x000000ff
+[84]
+Type = 3
+Hash = a5f2f692
+X = 407.0578
+Y = -975.6158
+Z = 28.41436
+Pitch = 0
+Roll = 0
+Yaw = 48.99982
+Opacity = 0x000000ff
+[85]
+Type = 3
+Hash = a5f2f692
+X = 406.3839
+Y = -974.2438
+Z = 28.41438
+Pitch = 0
+Roll = 0
+Yaw = 2.999748
+Opacity = 0x000000ff
+[86]
+Type = 3
+Hash = a5f2f692
+X = 406.3832
+Y = -972.6814
+Z = 28.41692
+Pitch = 0
+Roll = 0
+Yaw = 0.9997475
+Opacity = 0x000000ff
+[87]
+Type = 3
+Hash = a5f2f692
+X = 406.4043
+Y = -971.092
+Z = 28.42093
+Pitch = 0
+Roll = 0
+Yaw = 0.9997475
+Opacity = 0x000000ff
+[88]
+Type = 3
+Hash = a5f2f692
+X = 406.4341
+Y = -969.6724
+Z = 28.43101
+Pitch = 0
+Roll = 0
+Yaw = 0.9997475
+Opacity = 0x000000ff
+[89]
+Type = 3
+Hash = a5f2f692
+X = 406.6156
+Y = -967.0779
+Z = 28.45885
+Pitch = 0
+Roll = 0
+Yaw = -8.000241
+Opacity = 0x000000ff
+[90]
+Type = 3
+Hash = a5f2f692
+X = 407.0772
+Y = -965.5823
+Z = 28.41971
+Pitch = 0
+Roll = 0
+Yaw = -25.00017
+Opacity = 0x000000ff
+[91]
+Type = 3
+Hash = a5f2f692
+X = 407.7665
+Y = -964.3682
+Z = 28.45524
+Pitch = 0
+Roll = 0
+Yaw = -30.00002
+Opacity = 0x000000ff
+[92]
+Type = 3
+Hash = a5f2f692
+X = 408.8392
+Y = -963.1469
+Z = 28.50093
+Pitch = 0
+Roll = 0
+Yaw = -41.99998
+Opacity = 0x000000ff
+[93]
+Type = 3
+Hash = a5f2f692
+X = 410.0526
+Y = -962.2737
+Z = 28.48125
+Pitch = 0
+Roll = 0
+Yaw = -58.99992
+Opacity = 0x000000ff
+[94]
+Type = 3
+Hash = a5f2f692
+X = 411.5882
+Y = -961.4947
+Z = 28.46307
+Pitch = 0
+Roll = 0
+Yaw = -75.99979
+Opacity = 0x000000ff
+[95]
+Type = 3
+Hash = a5f2f692
+X = 413.2167
+Y = -961.1476
+Z = 28.49995
+Pitch = 0
+Roll = 0
+Yaw = -82.99974
+Opacity = 0x000000ff
+[96]
+Type = 3
+Hash = a5f2f692
+X = 414.6338
+Y = -961.0022
+Z = 28.47279
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[97]
+Type = 3
+Hash = a5f2f692
+X = 415.7465
+Y = -961.0067
+Z = 28.45584
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[98]
+Type = 3
+Hash = a5f2f692
+X = 417.1548
+Y = -960.9976
+Z = 28.43776
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[99]
+Type = 3
+Hash = a5f2f692
+X = 418.5628
+Y = -960.9938
+Z = 28.41969
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[100]
+Type = 3
+Hash = a5f2f692
+X = 419.9482
+Y = -960.9945
+Z = 28.40192
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[101]
+Type = 3
+Hash = a5f2f692
+X = 421.3193
+Y = -960.9807
+Z = 28.38432
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[102]
+Type = 3
+Hash = a5f2f692
+X = 422.5435
+Y = -961.0028
+Z = 28.36863
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[103]
+Type = 3
+Hash = a5f2f692
+X = 423.9409
+Y = -961.0081
+Z = 28.35071
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[104]
+Type = 3
+Hash = a5f2f692
+X = 425.2859
+Y = -961.01
+Z = 28.33346
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[105]
+Type = 3
+Hash = a5f2f692
+X = 426.6925
+Y = -961.009
+Z = 28.31541
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[106]
+Type = 3
+Hash = a5f2f692
+X = 428.1038
+Y = -961.0236
+Z = 28.25942
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[107]
+Type = 3
+Hash = a5f2f692
+X = 429.7803
+Y = -961.0256
+Z = 28.25119
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[108]
+Type = 3
+Hash = a5f2f692
+X = 431.3719
+Y = -961.0179
+Z = 28.23811
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[109]
+Type = 3
+Hash = a5f2f692
+X = 432.8886
+Y = -961.0255
+Z = 28.20754
+Pitch = 0
+Roll = 0
+Yaw = -90.99963
+Opacity = 0x000000ff
+[110]
+Type = 3
+Hash = a5f2f692
+X = 434.7386
+Y = -961.0587
+Z = 28.16195
+Pitch = 0
+Roll = 0
+Yaw = -141.9993
+Opacity = 0x000000ff
+[111]
+Type = 3
+Hash = a5f2f692
+X = 434.8607
+Y = -962.6874
+Z = 28.16403
+Pitch = 0
+Roll = 0
+Yaw = 178.0011
+Opacity = 0x000000ff
+[112]
+Type = 3
+Hash = a5f2f692
+X = 434.8678
+Y = -964.134
+Z = 28.16865
+Pitch = 0
+Roll = 0
+Yaw = 178.0011
+Opacity = 0x000000ff
+[113]
+Type = 3
+Hash = a5f2f692
+X = 434.8247
+Y = -966.202
+Z = 28.17793
+Pitch = 0
+Roll = 0
+Yaw = 178.0011
+Opacity = 0x000000ff
+[114]
+Type = 3
+Hash = e19a6ca0
+X = 416.8636
+Y = -1031.485
+Z = 30.45775
+Pitch = 0
+Roll = -5.008956E-06
+Yaw = -180
+Opacity = 0x000000ff
+[115]
+Type = 3
+Hash = 6ba514ac
+X = 436.71
+Y = -973.3517
+Z = 29.71507
+Pitch = 0
+Roll = 0
+Yaw = -89.99964
+Opacity = 0x000000ff
+[116]
+Type = 3
+Hash = 6ba514ac
+X = 436.7139
+Y = -975.7861
+Z = 29.72045
+Pitch = 0
+Roll = 0
+Yaw = -89.99963
+Opacity = 0x000000ff
+[117]
+Type = 3
+Hash = e171cfa6
+X = 466.51
+Y = -1021.205
+Z = 28.55
+Pitch = 5.97114E-13
+Roll = -5.008956E-06
+Yaw = 89.99999
+Opacity = 0x000000ff
+[118]
+Type = 3
+Hash = 4fd621bc
+X = 450.0168
+Y = -995.3684
+Z = 24.78699
+Pitch = 0
+Roll = 0
+Yaw = 89.99952
+Opacity = 0x000000ff
+[119]
+Type = 3
+Hash = 4fd621bc
+X = 433.8657
+Y = -995.5845
+Z = 24.78474
+Pitch = 0
+Roll = 0
+Yaw = 89.99951
+Opacity = 0x000000ff
+[120]
+Type = 3
+Hash = 7e417fdc
+X = 475.411
+Y = -979.1661
+Z = 28.3869
+Pitch = 0
+Roll = 0
+Yaw = 88.99968
+Opacity = 0x000000ff
+[121]
+Type = 3
+Hash = 7e417fdc
+X = 455.9742
+Y = -971.9109
+Z = 31.0388
+Pitch = 0
+Roll = 0
+Yaw = 88.99968
+Opacity = 0x000000ff
+[122]
+Type = 3
+Hash = 7e417fdc
+X = 434.4586
+Y = -984.8932
+Z = 31.3267
+Pitch = 0
+Roll = 0
+Yaw = 178.9989
+Opacity = 0x000000ff
+[123]
+Type = 3
+Hash = 7e417fdc
+X = 444.1377
+Y = -999.0228
+Z = 31.18863
+Pitch = 0
+Roll = 0
+Yaw = -3.85642E-05
+Opacity = 0x000000ff
+[124]
+Type = 3
+Hash = 7e417fdc
+X = 470.1515
+Y = -1014.749
+Z = 26.82603
+Pitch = 0
+Roll = 0
+Yaw = -3.85642E-05
+Opacity = 0x000000ff
+[125]
+Type = 3
+Hash = 7e417fdc
+X = 464.7271
+Y = -1011.642
+Z = 33.42945
+Pitch = 0
+Roll = 0
+Yaw = -3.85642E-05
+Opacity = 0x000000ff
+[126]
+Type = 3
+Hash = 7e417fdc
+X = 459.3837
+Y = -1008.811
+Z = 28.78154
+Pitch = 0
+Roll = 0
+Yaw = -87.99963
+Opacity = 0x000000ff
+[127]
+Type = 3
+Hash = 7e417fdc
+X = 488.3694
+Y = -1001.198
+Z = 28.17954
+Pitch = 0
+Roll = 0
+Yaw = 5.000617
+Opacity = 0x000000ff
